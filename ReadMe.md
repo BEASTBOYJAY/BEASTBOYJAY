@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BEASTBOYJAY&icon=10&color=13)](https://visitcount.itsvg.in)
 
-# My GitHub Activity
+# GitHub Activity
 <p align="center">
 <img src="game.gif" />
 </p>
