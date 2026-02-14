@@ -15,3 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BEASTBOYJAY&icon=10&color=13)](https://visitcount.itsvg.in)
 
+# My GitHub Activity
+<p align="center">
+<img src="assets/space-shooter.gif" />
+</p>
