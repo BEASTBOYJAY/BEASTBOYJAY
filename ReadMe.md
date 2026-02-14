@@ -17,5 +17,5 @@
 
 # My GitHub Activity
 <p align="center">
-<img src="assets/space-shooter.gif" />
+<img src="game.gif" />
 </p>
